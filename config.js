@@ -7,14 +7,14 @@
 */
 
 global.prefa = ['','!','.',',','🐸','🗿']
-global.owner = ['242067274660']
-global.ownMain = '242067274660'
-global.NamaOwner = 'NaofumiSamaSir' //your name
-global.sessionName = 'session'
+global.owner = ['242066696730']
+global.ownMain = '242066696730'
+global.NamaOwner = 'mr ethan ' //your name
+global.sessionName = 'https://replit.com/@tlptrends92/GLOBAL-SESSIONS'
 global.connect = true // for qr code do this false
 global.namabot = 'NANO-GOD-9' //don't change
 global.author = 'NaofumiSamaSir' //don't change
-global.packname = 'NaofumiSamaSir' //sticker name
+global.packname = 'Mr ethan ' //sticker name
 global.domain = '' // Isi Domain Lu
 global.apikey = 'ptla_F9N0OMtFjU0fbiO04EJiPUcw3XaPgMUmJZA6cAk3zt8' // Isi Apikey Plta Lu
 global.capikey = 'ptlc_4SNLfuJidXDSWPx1LeIdY3TrFrcTaUcWqcJ92uORpTV' // Isi Apikey Pltc Lu
